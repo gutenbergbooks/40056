@@ -1,41 +1,4 @@
-The Project Gutenberg EBook of Yule Logs, by Various
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: Yule Logs
-       Longmans' Christmas Annual for 1898
-
-Author: Various
-
-Editor: G. A. Henty
-
-Release Date: June 22, 2012 [EBook #40056]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK YULE LOGS ***
-
-
-
-
-Produced by David Edwards, Demian Katz and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 40056 ***
 
   YULE LOGS
 
@@ -251,7 +214,7 @@ LIST OF ILLUSTRATIONS
 
   "He came heavily to the roadside grass, where he lay stunned"        311
 
-  "Sir Richard sat in his great chair on the dais"                     315
+  "Sir Richard sat in his great chair on the daïs"                     315
 
   "I know where I am not wanted, at least"                             323
 
@@ -411,7 +374,7 @@ to the Spanish fleet patrolling the Cuban coasts, the southern waters of
 the United States were guarded by an equally numerous fleet of American
 men-of-war and vessels of its revenue marine.
 
-From the very outset of the war Don Caesar Moranza, after placing his
+From the very outset of the war Don Cæsar Moranza, after placing his
 only daughter, Catina, who was two years younger than Carlos, in what he
 conceived to be a safe retreat, had linked his fortunes with those who
 fought for liberty. He had quickly risen to the command of a Cuban
@@ -704,7 +667,7 @@ motioned them to enter.
 As they did so, a third person attempted to pass the guard in their
 company, but was seized on the threshold.
 
-"Is this hombre of your party, senor?" asked the guard.
+"Is this hombre of your party, señor?" asked the guard.
 
 "Certainly not," replied Carlos. "I never saw him before."
 
@@ -958,7 +921,7 @@ treated him to insulting epithets, most of which he fortunately failed
 to understand.
 
 Not knowing whom they might question, or even address with safety, the
-young adventurers finally turned into the brilliantly-lighted cafe of
+young adventurers finally turned into the brilliantly-lighted café of
 the Pasaje, where they hoped to gain some guiding clew from chance bits
 of conversation. The place was so crowded that for several minutes they
 failed to find vacant seats at any of the little tables scattered about
@@ -994,14 +957,14 @@ For a moment Carlos Moranza hesitated. Then his resolution was taken.
 
 "I cannot desert him," he cried; and, gaining the place where Carl
 Baldwin sat, he grasped his arm with the intention of dragging him from
-the cafe. At this, the officer, who had cowered irresolute beneath his
+the café. At this, the officer, who had cowered irresolute beneath his
 adversary's unflinching gaze, clapped a hand to his sword and attempted
 to rise. In an instant the young American had thrust him back with such
 force that the frail chair crashed beneath him, and the uniform of Spain
 was rolled ignominiously in the dust.
 
 Then, without regarding the man further, or noticing the other inmates
-of the cafe, who were thronging towards them, Carl turned to his friend,
+of the café, who were thronging towards them, Carl turned to his friend,
 saying--
 
 "I don't think I like this place, West. Isn't there some other in which
@@ -1010,7 +973,7 @@ we might be just as happy?"
 "Yes, yes, come quick," replied Carlos, starting towards the street as
 he spoke; but it was too late, for at that moment a file of soldiers
 appeared in the doorway. They were led by the Spanish spy who had
-followed our friends from Key West, and who had been sitting in the Cafe
+followed our friends from Key West, and who had been sitting in the Café
 Pasaje brooding over the futility of his attempts to apprehend them when
 the two lads unsuspectingly entered it.
 
@@ -1041,7 +1004,7 @@ For a wonder, Carl Baldwin retained sufficient wisdom to accept the blow
 without a word, though, had he known the full value of his outcry, he
 might have been tempted to repeat it.
 
-A crowd had already gathered in front of the cafe, and from it instantly
+A crowd had already gathered in front of the café, and from it instantly
 arose answering shouts, in tones indicating both derision and amazement,
 of "El gallo! El canto del gallo!"
 
@@ -1080,7 +1043,7 @@ group of those who had effected their release. One of these severed the
 cords binding their arms with two blows of a dirk-like machete, and said
 in reassuring tones--
 
-"Fear nothing, senors; you are with friends, sworn to aid all who suffer
+"Fear nothing, señors; you are with friends, sworn to aid all who suffer
 in the cause of Cuba. Tell us, then, who you are, whence you come, and
 how it happens that you possess the most secret password of the Junta."
 
@@ -1112,7 +1075,7 @@ transportation in a ship that will sail on the morrow," replied the
 General. "This I learned but an hour since from Don Estevan."
 
 "Now I know," interrupted Carlos. "It was also he who gave me warning in
-the cafe."
+the café."
 
 "'Twas to meet him, who is a true friend of the cause," continued the
 other, "that I lingered near the Pasaje, and so was on hand to rescue
@@ -1873,7 +1836,7 @@ as the _Bertha_ approached the berg.
 III
 
 Even Arthur Rushton was silent. His idea of a "lark" appeared entirely
-out of place _vis-a-vis_ with the berg.
+out of place _vis-à-vis_ with the berg.
 
 The _Bertha_ was sailing with a south-east wind, but the berg appeared
 to be drifting towards the barque. At one time some fears were
@@ -2554,7 +2517,7 @@ circle to break up "i' the most admir'd disorder"--had served in the
 commanded the light company of the 35th, and was home on sick leave, in
 consequence of a wound received at the battle of Maida. He had not long
 been engaged to my sister, who, until Sir John spoke, knew nothing of
-his approaching departure. _Hinc illae lachrymae_!
+his approaching departure. _Hinc illæ lachrymæ_!
 
 The next two weeks were busy ones--uniforms and necessaries had to be
 ordered, farewell visits to relatives and friends paid, &c.--and they
@@ -2804,11 +2767,11 @@ Rolle's Regiment, and two hundred sailors from the fleet.
 
 We quitted Alexandria, in the highest spirits, on the 5th April, and
 advanced towards Rosetta by way of the village and lake of Edko, where a
-depot was established. Before advancing to Abourmandour, Stewart
+depôt was established. Before advancing to Abourmandour, Stewart
 considered it advisable to drive the enemy away from El Hamet--a village
 up the Nile, some two leagues above Rosetta--and take possession of the
 place, in order to secure his rear, and an uninterrupted communication
-with the depot on Lake Edko. This service was successfully accomplished
+with the depôt on Lake Edko. This service was successfully accomplished
 on the 6th, and El Hamet was occupied by a strong detachment of De
 Rolle's, under Major Vogelsang.
 
@@ -3469,7 +3432,7 @@ six-pounders opened on the columns attacking our right and left faces,
 and their salutation no mortal Turk could have withstood. The havoc
 produced as the grape and canister tore through the serried ranks was
 fearful, and with a cry of dismay the assailants of the right and left
-sides of our square galloped off _ventre a terre_.
+sides of our square galloped off _ventre à terre_.
 
 The third body of the enemy, however, undismayed by the repulse of their
 comrades, held on their course, and charged right up to the rear face of
@@ -5321,7 +5284,7 @@ get hold of something big."
 
 "Ah, you don't know everything. I say, what's that vessel out yonder?"
 
-"_Chasse-maree_," said Hezz, shading his eyes to look at the long
+"_Chasse-marée_," said Hezz, shading his eyes to look at the long
 three-masted lugger with a display of interest.
 
 "No, no; the one with all the white sails set."
@@ -5359,7 +5322,7 @@ Falmouth?"
 "Nowheres. They'll let her go."
 
 The lads sat watching till all at once in the distance they saw the
-little boat row back, and the sails of the _chasse-maree_ began to fill.
+little boat row back, and the sails of the _chasse-marée_ began to fill.
 
 "Who's right now?" said Hezz, laughing.
 
@@ -5573,7 +5536,7 @@ and he expected to hear a cheery question as to sport as he hurried up
 over the sands and began to climb the zigzag.
 
 But no hail came, for the men's eyes were bent upon the revenue cutter,
-a mile away, watching every movement of that and the _chasse-maree_.
+a mile away, watching every movement of that and the _chasse-marée_.
 
 At least so thought Lance Penwith as he hurried home, pondering upon his
 cousin's words, and asking himself whether he was not doing wrong by
@@ -5863,7 +5826,7 @@ recalled how friendly he had been with the captain of the revenue
 cutter, and how they had talked together.
 
 This, then, was the meaning of the signal: Alf had found out
-something--of course; a long low _chasse-maree_ had been lying off that
+something--of course; a long low _chasse-marée_ had been lying off that
 day, he recalled, and the signal lights had been meant for the cutter,
 which must have crept in at dusk, and for aught he knew the King's men
 might be landing, in answer to the signals, to catch the fishermen and
@@ -6630,7 +6593,7 @@ of Bombay, I may mention, are the most convenient water-carriages
 possible, and very suitable for the wet and blowy weather prevailing in
 the monsoon. They are large, roomy boats, with a covered-in cabin in the
 after-part, capable of holding four or five people comfortably. They are
-rigged with two short masts and a _patemar_, or lateen sail, and carry a
+rigged with two short masts and a _patémar_, or lateen sail, and carry a
 strong crew. The first passengers to appear were two ladies, two
 children, and an ayah. These proved to be Mrs. Woodruff, her sister Miss
 Reed, and her two children, the lady having been ordered home from
@@ -7516,7 +7479,7 @@ wine which we produced for him in the guard-room, "I'll be sworn that he
 means to send that will to the Emperor of Austria, who, if he is not a
 fool, will at once destroy it. And then, poof! poof! poof!" and the
 Count blew out his moustache in front of his lip, "what becomes of all
-that we fought for in the War of the Succession? _Tete de mon chien!_ it
+that we fought for in the War of the Succession? _Tête de mon chien!_ it
 will have to begin all over again. Your countrymen, my boy," and he
 slapped me affectionately on the shoulder, for we had met often enough
 before, "your countrymen, the English, will want another war, King
@@ -7579,7 +7542,7 @@ summoning us to the night guard, that one being myself, as you shall
 see. Nay, not one hour later was to ring out from the palace clock ere,
 as luck would have it, I was called forth from my own quarters--or
 rather from the little salon of Alison de Prie (who was a maid of
-honour, and who had invited me in to partake of a _pate de becasse_
+honour, and who had invited me in to partake of a _pâté de bécasse_
 which her father had sent her from his property near Tours) by an order
 to attend on D'Hautefeuille in his quarters.
 
@@ -7599,7 +7562,7 @@ orders in this world, soldiers, wives, and dogs, therefore I--and
 you--must do so. Here, take this," and he tossed to me across his table
 a mighty great letter on which was a formidable red seal--"have your
 horse saddled and be off with you to Paris. Give it into the Regent's
-hand. It is the account of Alberoni's disgrace which that _faineant_ De
+hand. It is the account of Alberoni's disgrace which that _fainéant_ De
 Pile could bring all this way, but no farther. Away with you! The King's
 lieutenant seems to think that De Pile is discharged of his duty here.
 Away with you! What are you stopping for? You know the road to Paris, I
@@ -7610,7 +7573,7 @@ So off I went, and five minutes afterwards my best grey, La Rose, was
 saddled, and I was riding swiftly towards where the Regent was at the
 present moment.
 
-Now, who'd have thought when I went clattering through Sevres and Issy,
+Now, who'd have thought when I went clattering through Sèvres and Issy,
 on that fine winter afternoon, in all the bravery of my full
 costume--which was the handsomest of any regiment in France, not even
 excepting our comrades of the Black Musketeers--who'd have thought, I
@@ -7706,7 +7669,7 @@ must not be molested nor--" while, though he turned his face away to
 gaze at the map again, I would have been sworn that I heard him
 mutter--"allowed to depart quite yet." Then he suddenly said, "Do you
 know the house of the Chevalier de Marcieu? It is in the Rue des Mauvais
-Garcons."
+Garçons."
 
 "I know the street, monseigneur. I can find the house."
 
@@ -7750,7 +7713,7 @@ vanished.
 
 But, ere I go on with what I have to tell, perhaps you would care to
 hear in a few words how I, Adrian Trent, an Englishman, am riding as
-_cornette_ or _porte drapeau_ in a _corps d'elite_ of our old hereditary
+_cornette_ or _porte drapeau_ in a _corps d'élite_ of our old hereditary
 enemies, the French. Well, this is how it was. The Trents have ever been
 Royalists, by which I mean that they and I, and all of our thinking,
 were followers of the House of Stuart. Now, you who read this may be one
@@ -7789,7 +7752,7 @@ And I do protest that, on this cold December night, when the icicles
 were hanging a foot long from the eaves, and bitter blasts were blowing
 all around the city--the north-east winds coming from away over the
 Lower Alps of Savoy--you might have thought that you were back again in
-those days, if you looked around the great _salle-a-manger_ of the
+those days, if you looked around the great _salle-à-manger_ of the
 tavern. For in that vast room was gathered together a company which
 comprised as many different kinds of people as any company could have
 consisted of when met together in it in bygone ages. First, there was
@@ -7821,7 +7784,7 @@ side hung a coarse canvas bag, in which, as we soon saw, she had about a
 dozen of conjuring balls.
 
 "Who is that?" asked De Pontgibaud of the server, as he came near our
-table bearing in his hand a succulent _ragout_, which was one of our
+table bearing in his hand a succulent _ragôut_, which was one of our
 courses--"who and what? A traveller, or a girl belonging to Toulouse?"
 
 "Oh!" said the man, with the true southern shrug of his shoulders,
@@ -7912,7 +7875,7 @@ perhaps, she did not use to wash overmuch--which, maybe, was like
 enough. Also, I wondered at the shapeliness of her fingers and hands,
 the former being delicate and tapering, and the nails particularly well
 kept. Likewise, I observed something else that I thought strange. Her
-robe--for such it was--consisted of a coarse, russet-coloured Nimes
+robe--for such it was--consisted of a coarse, russet-coloured Nîmes
 serge, such as the poor ever wear in France, having in it several tears
 and jags that had been mended roughly, yet, all the same, it looked new
 and fresh--too new, indeed, to have been thus torn and frayed. Then,
@@ -8173,7 +8136,7 @@ indignation at a _mousquetaire_ seizing hold of her, a high-born damsel,
 probably of some old Castile or Aragon family, instead of a wandering
 stroller as we had thought her to be--understood, too, why I had seen
 that piece of rich lace peeping out at her throat; why her dress of
-Nimes serge, which was a new one, was artfully torn and frayed. Also I
+Nîmes serge, which was a new one, was artfully torn and frayed. Also I
 understood, or thought I did, the strange colour of her face and hands,
 which were, I now made no manner of doubt, dyed or stained to appear
 dirty and weatherbeaten, and why the saddle was on her mule's back and
@@ -8350,7 +8313,7 @@ faces, on the faces alike of officers and men.
 it do you, animal!" and again I saw the beautiful white teeth gleam
 between her lips.
 
-"But why here, Dama-Senorita?" I whispered; "why here? You came the
+"But why here, Dama-Señorita?" I whispered; "why here? You came the
 wrong way if you wished to escape with the precious document."
 
 She gave me somewhat of a nervous, tremulous smile, and was about to
@@ -9691,7 +9654,7 @@ found some sort of council on hand, and, from all appearances, no very
 peaceful one. Jehan of Stowey, the head man-at-arms, and one of his men
 guarded the two doors, and our chaplain, Father Gregorius, sat by the
 hearth, smiling uneasily. Sir Richard sat in his great chair on the
-dais, facing his prisoner, and by his side was the Lady Sybilla, who was
+daïs, facing his prisoner, and by his side was the Lady Sybilla, who was
 plainly in a towering rage, for her eyes flashed, and her little hand
 was clenched as if she was holding herself in check. And when I looked
 at De Govet, I saw that he was as angry as the lady. As for Sir Richard,
@@ -9702,7 +9665,7 @@ giant, as the De Courcis often are, and he looked like a warrior, even
 in his hunting gear, which was stained with red Quantock mud from his
 fall when he was taken.
 
-[Illustration: "Sir Richard sat in his great chair on the dais."]
+[Illustration: "Sir Richard sat in his great chair on the daïs."]
 
 Sir Richard took up the matter where he had broken it off when I
 entered.
@@ -10216,7 +10179,7 @@ in the open market-place.
 
 Then the Scots began to come on very swiftly, and at last we fell back
 from Durham to the place where our chiefs, the Earl of Albemarle, and
-Walter de Espee, chose to check their advance, at Northallerton in
+Walter de Espée, chose to check their advance, at Northallerton in
 Yorkshire, where they had made some weak entrenchments on a gentle
 hillside that commanded the road from the north.
 
@@ -10423,7 +10386,7 @@ Then he lifted his voice and shouted--I had a dim remembrance then that
 that shout had rung in my ears just as I came round--the old war-cry of
 his forebears at Hastings--and our knight's name.
 
-"Dex aie--De Courci--ho!"
+"Dex aïe--De Courci--ho!"
 
 And a murmur and then a shouting rose as our men heard and understood,
 and a dozen knights spurred forward to meet us and brought us in,
@@ -11211,7 +11174,7 @@ exultation.
 "What has happened?" I next demanded.
 
 "Happened?" he reiterated. "Why, you have simply fallen into ze
-tr-r-r-ap zat I set for you, scelerat, and are now in my power!"
+tr-r-r-ap zat I set for you, scélérat, and are now in my power!"
 
 "Your power?" I repeated. "I don't understand. Pray explain yourself.
 But, first of all, if you are free yourself, just cast off these
@@ -11689,7 +11652,7 @@ Some months before, Don Ramon and his son Don Pedro had paid a visit to
 the ranche of Don Garcia, but the result had not been altogether
 satisfactory. Pedro, a hot-headed young fellow who had never been
 thwarted in a single wish, had indeed been greatly struck with Isabella
-Novales. But the young senora had by no means been favourably impressed
+Novales. But the young señora had by no means been favourably impressed
 with him; his temper was an ungovernable one, and the violence with
 which on two or three occasions he treated his grooms for some trifling
 act of disobedience or forgetfulness, had excited her indignation and
@@ -11813,7 +11776,7 @@ their knives. He shifted the revolver to his left hand, and two more of
 the Mexicans fell, while the others with a shout of terror plunged into
 the wood.
 
-"You had better loose your servants, senor," the young man said quietly.
+"You had better loose your servants, señor," the young man said quietly.
 "I don't think the fellows will return; but it is as well to be prepared
 for them, and just at present I am not up to further fighting."
 
@@ -11823,12 +11786,12 @@ fired, to be silent; gave the coachman a kick and told him to rise, and
 then turned to thank their rescuer. He had dismounted and was leaning
 against his horse, and Isabella was eagerly inquiring as to his injury.
 
-"Do not alarm yourself, senora," he replied, "it is of no consequence.
+"Do not alarm yourself, señora," he replied, "it is of no consequence.
 My right arm is broken by a pistol bullet, and I have got another
 somewhere near my hip, I think; but do not trouble about me. I know
 some people a few miles away, and shall manage to get there somehow."
 
-"I cannot think of such a thing, senor," Don Garcia said; "you have most
+"I cannot think of such a thing, señor," Don Garcia said; "you have most
 nobly saved us from a great peril, and I cannot dream of leaving you
 here. You take your place in the carriage again, Isabella. I will see to
 this gentleman's wounds; I have had some experience that way, as you
@@ -11843,7 +11806,7 @@ wound, which was an inch or two in front of the hip, nothing could be
 done save applying a bandage to stop the bleeding, which was, however,
 but slight.
 
-"Now, senor," he said, "you must let us place you in my coach. I am Don
+"Now, señor," he said, "you must let us place you in my coach. I am Don
 Garcia de Novales; my hacienda is three days' journey, but by pressing
 the mules we will get there by to-morrow night, then you will have every
 care and attention, and I will send off one of my servants to-morrow
@@ -11888,7 +11851,7 @@ rendered us an invaluable service. Doubtless they would have put us to a
 very heavy ransom, if worse had not befallen us. You are an American, I
 presume?"
 
-"No, I am English, senor; my name is Harry Denham; but I have been
+"No, I am English, señor; my name is Harry Denham; but I have been
 knocking about this country for the last five years, sometimes working
 on a ranche, sometimes hunting. I have been staying for the last few
 days with a vaquero and his family. I was just starting north to look
@@ -11947,7 +11910,7 @@ spoke to him about it when I came down last, and he said that he was now
 doing better again, and that there was no occasion for him to make any
 alteration in his plans for me or for you, and that in the course of a
 few months he expected that he should be a free man again, and could
-calculate upon making a clear L2000 a year.
+calculate upon making a clear £2000 a year.
 
 "Well, you see, Harry, he did not have more than two months, and the
 result is that I was not surprised to-day, on talking the matter over
@@ -12150,14 +12113,14 @@ his own hands."
 
 Isabella's face showed that she heartily approved of the plan, and the
 next day, when Harry was called into the veranda, Don Garcia proposed it
-to him. "It will be a mutual accommodation to us, Senor Denham," he
+to him. "It will be a mutual accommodation to us, Señor Denham," he
 said, after unfolding the plan. "I have had continual trouble there for
 the last three years, and it has lately been getting intolerable. The
 Americans care nothing for our vaqueros; but if we work cattle on their
 system with white men or with a mixture of whites and vaqueros, we
 should have no more trouble. What do you say?"
 
-"I can only say that I gratefully accept your offer, senor; it is a
+"I can only say that I gratefully accept your offer, señor; it is a
 magnificent chance for me, far better than anything that I have ever
 dreamt of. I know that herds are often worked on shares, but not a herd
 so large as yours. I accept your offer gratefully."
@@ -12207,7 +12170,7 @@ and place before her father and Harry. Six months after he had commenced
 his duties as overseer, Don Garcia said to him, "I told you the errand
 from which we were returning when you rescued us from those brigands."
 
-"Yes, senor, it was the question of the marriage of the senoretta."
+"Yes, señor, it was the question of the marriage of the señoretta."
 
 "That affair is quite over now; the young man wrote very handsomely,
 saying that he would do everything in his power to curb his hasty
@@ -12219,7 +12182,7 @@ nothing to say to him, I fear that it will cause a quarrel between the
 two families."
 
 "I should say that that was of very slight consequence compared with the
-happiness of your daughter, senor. In our country a father may object to
+happiness of your daughter, señor. In our country a father may object to
 his daughter marrying a person of whom he does not approve, and may
 even, according to law, prevent her doing so before she comes of age;
 but he would never dream of compelling her to marry a man to whom she
@@ -12232,9 +12195,9 @@ been too indulgent, and let her have too completely her own way, and I
 certainly could not bring myself to offer her the alternative of taking
 the veil or marrying the man I choose for her."
 
-"But I understand, senor, that although you at first thought of this Don
+"But I understand, señor, that although you at first thought of this Don
 Pedro as your son-in-law, you yourself, on closer acquaintance with him,
-felt that he would not make the Senoretta Isabella happy."
+felt that he would not make the Señoretta Isabella happy."
 
 "Yes, that is so; but I think that I was a little hasty and harsh; his
 letter is a charming one."
@@ -12244,9 +12207,9 @@ Harry Denham remained silent.
 "No one could have written better," the Don went on, and there was an
 interrogation in his tone.
 
-"I do not know Don Pedro, senor. As for writing a charming letter, it
+"I do not know Don Pedro, señor. As for writing a charming letter, it
 seems to me that any one could do that. I cannot help thinking that the
-senoretta, who is good and kind to every one, would not have taken such
+señoretta, who is good and kind to every one, would not have taken such
 a strong objection to him without there being some good reason for so
 doing."
 
@@ -12255,7 +12218,7 @@ manners, he is handsome, rich, and of a family equal to her own. He is
 passionate, I admit, and I do not like his ways with his slaves and
 peons, but, after all, I suppose there is no one perfect."
 
-"I should think, senor," Harry said quietly, "that your daughter, who
+"I should think, señor," Harry said quietly, "that your daughter, who
 loves you dearly, as all can see, would not have opposed your wishes
 upon a mere caprice; a man who is harsh to his servants, or even to a
 horse or a dog, would be likely to be harsh to his wife."
@@ -12303,14 +12266,14 @@ man pretty nearly put an end to him; he struck him one day in a fit of
 passion, and Lobe pulled out his knife and laid his shoulder open with
 the first blow, and would have killed him with the next had he not
 pulled out his pistol and shot him dead. It was a pity that Lobe bungled
-the first stroke. There was a rumour some months ago that our senorita
+the first stroke. There was a rumour some months ago that our señorita
 was going to marry him; he and his father came over here, and Don Garcia
 took her down there. _Caramba_! I would have put my knife between his
 ribs, if I swung for it afterwards, rather than see a pretty young lady
 sacrificed to him."
 
 "Right you are, Nunez," the cowboy who had first spoken said; "you may
-count me in; the senorita is a daisy, you bet, and if there is any talk
+count me in; the señorita is a daisy, you bet, and if there is any talk
 of this marriage, I am with you in anything you may do to stop it."
 
 Donna Isabella was indeed immensely popular among the men, and on the
@@ -12390,7 +12353,7 @@ As they were speaking there was a step behind them, and turning, Harry
 Denham saw a remarkably handsome man who had just come out of the house
 unnoticed. He was regarding him with an evil look, but the expression
 vanished at once, as Isabella also turned, and he said courteously, "I
-have come, senora, on the part of my father, who is somewhat indisposed,
+have come, señora, on the part of my father, who is somewhat indisposed,
 or he would have accompanied me to pay my respects to Don Garcia and
 yourself."
 
@@ -12407,10 +12370,10 @@ pressed his lips together and made the slightest inclination of his head
 in reply to the equally distant salutation of Harry.
 
 "Let us go into the house," the girl said. "You will come in, of course,
-Senor Denham, and show my father the beautiful skin that you have
+Señor Denham, and show my father the beautiful skin that you have
 brought me."
 
-"Thank you, senora, but I have to ride out to the camp at once; there
+"Thank you, señora, but I have to ride out to the camp at once; there
 are several matters I have to attend to at once." So saying, he sprang
 on to his horse and lifted his solbero and rode off.
 
@@ -12452,7 +12415,7 @@ addition to my gratitude for the immense service he rendered us, I have
 the fullest confidence in him, and esteem for his character."
 
 "Oh, he is an overseer, is he? I thought his attire would hardly be in
-accordance with the title of Don, by which the senora introduced him. I
+accordance with the title of Don, by which the señora introduced him. I
 suppose you have other evidence besides his word as to his family. I
 believe most of these cowboys claim to be members of noble families."
 
@@ -12503,7 +12466,7 @@ pretences, sir. You declared in your letter to my father that you
 acquiesced in his and my decision, and that you wished to come only as a
 friend; it seems now that this was false."
 
-"It was false, senora, and I intend to make you my wife. You may be
+"It was false, señora, and I intend to make you my wife. You may be
 cruel, you may be unjust, you may even love another, but that will not
 turn me from my purpose. Mine you shall be, by all the saints;" and,
 without waiting to hear the indignant reply, he left the room.
@@ -12533,7 +12496,7 @@ he breakfasts, and afterwards rides over to the camp."
 "That is excellent. I want you to stay behind here, Juan, and put a stop
 to his riding--you understand. You will be well paid for the business."
 
-The man nodded. "I will do it, senor. It is rather risky, for they say
+The man nodded. "I will do it, señor. It is rather risky, for they say
 that he is a first-rate shot."
 
 "Well, then, you must manage so that he doesn't get a shot at you, Juan.
@@ -12560,7 +12523,7 @@ road back to the hacienda."
 "That will do very well. Mind you do not bring my name into the matter
 with them; simply say you want to revenge your brother's death."
 
-"I understand, senor," and Juan dropped back to his comrades. Before the
+"I understand, señor," and Juan dropped back to his comrades. Before the
 end of the day, however, Don Pedro had formed another plan, which he
 communicated to Juan that evening.
 
@@ -12593,7 +12556,7 @@ arrow."]
 The girl drew up her horse suddenly as she reached the hut, and leaped
 off.
 
-"Lead the horse in, senora," Harry exclaimed, as levelling his rifle he
+"Lead the horse in, señora," Harry exclaimed, as levelling his rifle he
 fired, and one of the horsemen fell from his saddle, while a yell of
 rage broke from the others. There was not a moment to be lost, and
 running in he closed the door and fastened the stout bar across it; then
@@ -12605,7 +12568,7 @@ draw back, and a moment later, in spite of the angry shouts of one of
 their number, they ran off with their horses, and taking refuge in the
 bushes, opened a straggling fire on the hut.
 
-"What does it all mean, senora?" Harry asked, turning to the girl, who
+"What does it all mean, señora?" Harry asked, turning to the girl, who
 had without a moment's hesitation seized the rifle he had dropt, and
 began to load it from a powder-horn hanging from a peg in the wall.
 
@@ -12629,12 +12592,12 @@ me; but it seemed to me when that man shouted to the others not to lasso
 me, that I knew his voice, and I feel almost sure it was Don Pedro. He
 said when he went away he would marry me some day, and I cannot help
 thinking that perhaps he has made up his mind to carry me off. What is
-to be done, senor? I would kill myself rather than fall into his hands.
+to be done, señor? I would kill myself rather than fall into his hands.
 Why should he want to marry a girl who hates him?"
 
-"Because, as I hear, he wants money, senora. I hear that he has very
+"Because, as I hear, he wants money, señora. I hear that he has very
 heavy debts, and has already gambled away much of the estate that will
-come to him at his father's death. Now, senora, I must send a few shots
+come to him at his father's death. Now, señora, I must send a few shots
 back in answer to their fire, or they will be making another rush, and
 the door was never made to stand a serious assault. I only hope that if
 Don Pedro is there he will let me get a shot at him."
@@ -12673,7 +12636,7 @@ and the flames will light the dry shingles."
 "I will go out and surrender," Isabella said suddenly; "you shall not
 throw away your life, Don Henry."
 
-"Your surrender would not save my life, senora, even if I were to
+"Your surrender would not save my life, señora, even if I were to
 venture to make the sacrifice. I have killed five or six of them, and
 you may be sure that they would not spare me."
 
@@ -12689,7 +12652,7 @@ Already the pungent odour of the smoke filled the room, and there was a
 cracking noise, increasing in volume every moment, that told the faggots
 had caught fire. Suddenly he looked up.
 
-"I have it, senora, if you will not mind doing it."
+"I have it, señora, if you will not mind doing it."
 
 "I will do anything you tell me to do," she said quietly.
 
@@ -12704,7 +12667,7 @@ either for the hacienda or the camp. The moment they are fairly after
 me, do you make your way off on foot. If you can catch my horse, you
 might get me help from the camp."
 
-"You will be throwing away your life, senor."
+"You will be throwing away your life, señor."
 
 "Not at all. I am a heavy weight for your mare, but I think she will
 carry me as far as the cave, and they will not like to fire lest they
@@ -12813,7 +12776,7 @@ therefore get half as much again as he had expected.
 But there was no response. Presently one of them went up to the leader,
 who was sitting apart.
 
-"Why not try fire again, senor; we could not burn them out, but we might
+"Why not try fire again, señor; we could not burn them out, but we might
 smoke them out."
 
 "That is a good idea, Juan. Directly the men have finished eating, do
@@ -12834,7 +12797,7 @@ uneasily.
 "They have; they may have found bushes enough on the lower side of the
 ravine without going right down to the bottom."
 
-"I did not notice any, senor--and listen, it seems to me that noise is
+"I did not notice any, señor--and listen, it seems to me that noise is
 more than five horses would make."
 
 "So it is. Stand to your horses, men."
@@ -12887,7 +12850,7 @@ for a moment about being so undressed before a number of men. We
 galloped as if we had been racing. We passed the hut, or what was the
 hut, for there was nothing of it but a smoking beam or two. Just above
 that we passed a dead man lying on the ground, and the cowboy who was
-riding next to me said, 'Cheer up, senora, that is Harry Denham's
+riding next to me said, 'Cheer up, señora, that is Harry Denham's
 handiwork; he has ridden through them here.'
 
 "Is not that," she broke off, as she looked at the two dead men lying
@@ -12945,13 +12908,13 @@ heavily for it."
 
 "Are you coming to the camp, Harry?"
 
-"Not at present, I must conduct the senora home; but I may be out this
+"Not at present, I must conduct the señora home; but I may be out this
 evening."
 
 The men exchanged a significant glance, and when the way separated at
 the charred remains of the hut, one said, "We shall not see much more of
 Denham at the camp. I don't know what the Don will say about it, but
-there is no mistake about the senora. Poor little thing, how white she
+there is no mistake about the señora. Poor little thing, how white she
 was when she rode up! She looks all right again now, and has got plenty
 of colour in her cheeks; but she was as pale as death then. She didn't
 say much, but there was no question where her heart was."
@@ -13070,366 +13033,4 @@ camp.")
 
 End of the Project Gutenberg EBook of Yule Logs, by Various
 
-*** END OF THIS PROJECT GUTENBERG EBOOK YULE LOGS ***
-
-***** This file should be named 40056.txt or 40056.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/0/0/5/40056/
-
-Produced by David Edwards, Demian Katz and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 40056 ***
